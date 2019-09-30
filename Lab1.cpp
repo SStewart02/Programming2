@@ -12,6 +12,3 @@ int main() {
 
 	return 0;
 }
-
-// can eliminate vectors with pointers just need to know size;
-// can def max child size
